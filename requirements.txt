@@ -1,0 +1,9 @@
+catboost
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+statsmodels
+catboost[gpu]  # Optional: Include if using GPU for training
