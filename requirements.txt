@@ -7,3 +7,4 @@ scikit-learn
 jupyter
 statsmodels
 catboost[gpu]  # Optional: Include if using GPU for training
+scipy
